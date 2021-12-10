@@ -10,7 +10,8 @@ Basic Buffer Overflows
 Leaking Canaries                       
 Return to LIBC                       
 ASLR Bypass                       
-Return oriented programming                       
+Return oriented programming   
+Format String - read and write                   
 Custom shellcode encoding and bypass of 31+ bad characters.                       
 
 
